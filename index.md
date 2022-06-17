@@ -5,8 +5,11 @@
 <br>
 
 <h3 align="center">
-  ![](./img/img_3.png)
+  
+  ![](/img/img_3.png)
 
+</h3>
+  
 Welcome to World Wide Room 130 Developers' Conference!
 
 <br>

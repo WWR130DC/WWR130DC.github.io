@@ -6,7 +6,7 @@
 
 <h3 align="center">
   
-  ![](/img/img_3.png)
+  <img src="./img/img_3.png">
 
 </h3>
   
